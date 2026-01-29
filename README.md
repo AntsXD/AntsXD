@@ -66,6 +66,8 @@ If it’s technical and deep, I’m probably interested.
 - 💼 Open to internships, collaborations, and interesting ideas
 - 🤝 If you're building something cool or want to learn together — reach out
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonycharbel)
+
 
 ---
 
