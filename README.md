@@ -63,8 +63,9 @@ If it’s technical and deep, I’m probably interested.
 ---
 
 ### 📫 Let’s Connect
-- 💼 Open to *nternships, collaborations, and interesting ideas
+- 💼 Open to internships, collaborations, and interesting ideas
 - 🤝 If you're building something cool or want to learn together — reach out
+
 
 ---
 
