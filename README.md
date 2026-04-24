@@ -1,16 +1,6 @@
-## Hi there 👋
+# Anthony Charbel
 
-I'm **Anthony (AntsXD)**, a computer & communications engineering student who enjoys building things **close to the metal** *and* experimenting with **intelligent systems**.
-
-I like mixing **software, hardware, and theory** to understand systems end‑to‑end — from logic gates to high‑level decision making.
-
-I like understanding **how things work under the hood**, whether that's C++ memory, operating systems, networks, or AI models.
-
-I'll be doing my master's in AI and embedded systems at Telecom Paris next year.
-
----
-
-### 🛠️ Tech Stack
+Computer & Communications Engineering student going into a master's in AI and Embedded Systems at Telecom Paris next year. I like understanding systems end-to-end — from logic gates up to decision-making models — and I learn best by building things that actually do something.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
@@ -18,62 +8,40 @@ I'll be doing my master's in AI and embedded systems at Telecom Paris next year.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" />
 </p>
 
-### 🚀 About Me
-- 🎓 Computer & Communications Engineering (4th year)
-- 💻 Strong in **C++**, **Python**, and **VHDL**
-- 🧠 Interests: **Systems programming, AI/ML, cybersecurity, networking**
-- 🛠️ I enjoy learning by building real projects, not just tutorials
-- 🧩 Curious by nature — I like digging deeper than surface-level solutions
+Strong in C++, Python, and VHDL. Comfortable at the intersection of software, hardware, and theory.
 
 ---
 
-### 🧠 Currently Exploring
-- Hardware–software co-design and digital logic (VHDL)
-- Low-level systems & OS concepts
-- AI & computer vision projects
-- Cybersecurity (CTFs, Reverse Engineering, Binary Exploitation)
-- Multi-agent systems & distributed architectures
+## What I'm building right now
+
+**OS from scratch** — Writing my own operating system in C++. Bootloader, memory management, the whole thing. Probably the most humbling project I've touched.
+
+**AI Intruder Detection System** — A real-time intrusion detection system with a companion app. Handles alerts via SMTP and Firebase Cloud Messaging, built around an API abstraction layer for flexibility.
+
+**Cross-sectional equity return predictor** — ML model that ranks stocks for long/short positions using an ensemble of ElasticNet, Lasso, and Ridge. Containerized with Docker, served via FastAPI.
+
+**VHDL experiments** — Getting into hardware-software co-design and digital logic. Slowly closing the gap between writing code and understanding what the hardware is actually doing.
 
 ---
 
-### 📌 Projects & Experiments
-- 🤖 AI-powered systems (vision, decision-making, agents)
-- 🧩 C++ systems-level experiments
-- 🌐 Networking & protocol-related projects
-- ♟️ Computer vision applied to chess analysis
+## Other things I've worked on
 
-*(More projects coming as I break things and rebuild them better.)*
+- AI workout form coach using MediaPipe, OpenCV, and scikit-learn — two-model pipeline for exercise classification and form correction
+- Cryptography lab work: PKCS#7 signatures, ASN.1 parsing, certificate verification
+- Distributed systems: MapReduce, MinHashing, LSH, PageRank
+- CTFs and binary exploitation when I have the time
 
 ---
 
-### 📈 The Timeline
-> A visual snapshot of my GitHub activity and progress over time.
-
-
+## The Timeline
 
 <img width="3072" height="1478" alt="github-timeline-AntsXD-1777019431177" src="https://github.com/user-attachments/assets/ab7566ac-d8e9-4f48-b7d8-4e18c0fbb95a" />
-
 <img width="2560" height="1044" alt="image" src="https://github.com/user-attachments/assets/194db3a6-6a08-40c1-8eeb-9d3734e2b7f8" />
 
 ---
 
-### 💬 Let’s Talk Tech
-I like discussing and learning anything related to technology from low-level systems and hardware design to software architecture, AI, and everything in between.
+## Let's connect
 
-If it’s technical and deep, I’m probably interested.
-
----
-
-### 📫 Let’s Connect
-- 💼 Open to internships, collaborations, and interesting ideas
-- 🤝 If you're building something cool or want to learn together — reach out
+Open to internships, collaborations, and interesting problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anthonycharbel)
-
-
----
-
-⚡ *"Understand the system. Then bend it. Then optimize it."*
-
-
-
