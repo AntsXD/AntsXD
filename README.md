@@ -49,9 +49,11 @@ I'll be doing my master's in AI and embedded systems at Telecom Paris next year.
 ### 📈 The Timeline
 > A visual snapshot of my GitHub activity and progress over time.
 
-<img width="3072" height="1422" alt="github-timeline-AntsXD-1769623907036" src="https://github.com/user-attachments/assets/f48bee0d-14c2-4679-a6cd-ff23f0f621a2" />
 
-<img width="2560" height="1044" alt="image" src="https://github.com/user-attachments/assets/1ef6d59e-9261-4572-802d-b4214ced9120" />
+
+<img width="3072" height="1478" alt="github-timeline-AntsXD-1777019431177" src="https://github.com/user-attachments/assets/ab7566ac-d8e9-4f48-b7d8-4e18c0fbb95a" />
+
+<img width="2560" height="1044" alt="image" src="https://github.com/user-attachments/assets/194db3a6-6a08-40c1-8eeb-9d3734e2b7f8" />
 
 ---
 
