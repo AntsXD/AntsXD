@@ -1,6 +1,6 @@
 # Anthony Charbel
 
-Computer & Communications Engineering student going into a master's in AI and Embedded Systems at Telecom Paris next year. I like understanding systems end-to-end — from logic gates up to decision-making models — and I learn best by building things that actually do something.
+Computer & Communications Engineering student in a master's in AI and Embedded Systems at Telecom Paris . I like understanding systems end-to-end — from logic gates up to decision-making models — and I learn best by building things that actually do something.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
